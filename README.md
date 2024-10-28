@@ -1,6 +1,5 @@
 # CODTECH-TASK2
-# Project Overview for Vimlendu Nath Tiwari
-
+ **Name**: Vimlendu Nath Tiwari
 ### Company Name: Codtech IT Solutions Pvt. Ltd.
 ### Intern ID: CT08DS8621
 ### Domain: Digital Marketing
