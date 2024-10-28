@@ -1,5 +1,5 @@
 # CODTECH-TASK2
- **Name**: Vimlendu Nath Tiwari
+### Name: Vimlendu Nath Tiwari
 ### Company Name: Codtech IT Solutions Pvt. Ltd.
 ### Intern ID: CT08DS8621
 ### Domain: Digital Marketing
@@ -46,3 +46,16 @@ Given the success of **Paid Search** and **Cross-network campaigns**, refining t
 
 ### 4. Page Optimization
 Analyze the top-performing pages and enhance the **user journey** to guide them towards making purchases more efficiently.
+
+![Screenshot 2024-10-28 152850](https://github.com/user-attachments/assets/4594fe23-914f-4a8f-a330-a669faa1806f)
+![Screenshot 2024-10-28 152904](https://github.com/user-attachments/assets/6d51bb3d-c992-47e8-9652-0af6025bdbef)
+![Screenshot 2024-10-28 153008](https://github.com/user-attachments/assets/93f2d7d9-76b2-4588-8330-64fe0b3d7d80)
+![Screenshot 2024-10-28 153026](https://github.com/user-attachments/assets/3747b25a-f49c-4d92-9128-f30b42578c15)
+![Screenshot 2024-10-28 153106](https://github.com/user-attachments/assets/755d901b-a699-4ef3-b669-43441874b025)
+![Screenshot 2024-10-28 153117](https://github.com/user-attachments/assets/c991a3c2-e220-45f8-9750-d7794fc2ad63)
+
+
+
+
+
+
