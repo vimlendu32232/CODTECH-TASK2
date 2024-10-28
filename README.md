@@ -5,6 +5,8 @@
 ### Domain: Digital Marketing
 ### Mentor: Neela Santhosh Kumar
 
+# Project Overview: GOOGLE ANALYTICS SETUP AND REPORTING 
+
 As part of your internship in **Digital Marketing**, you implemented **Google Analytics** on an **Amazon merchandise sales platform** to track user behavior and generate insightful reports. This project aimed at providing **data-driven recommendations** for optimizing sales and marketing performance.
 
 ## Key Aspects of the Project
